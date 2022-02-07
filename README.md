@@ -8,6 +8,7 @@ SemEval is a series of international natural language processing (NLP) research 
 
 
 ● Results: 
+
       ● 19th rank in SubTask A
       ● 8th rank in SubTask B 
       ● 13th rank in SubTask C
